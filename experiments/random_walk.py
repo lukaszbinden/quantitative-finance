@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 mu = 0
-sigma = 0.1
+sigma = 1
 seed = 4285
 days = 1000
 np.random.seed(seed)
